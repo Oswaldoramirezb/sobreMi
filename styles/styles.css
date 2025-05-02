@@ -1,0 +1,30 @@
+/*Comentario en CSS */
+* {
+    background-color: rgb(168, 189, 94);
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+P {
+    color: blue;
+}
+
+.terminos-a-definir {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    background-color: burlywood;
+}
+
+#parrafo-inicial {
+    background-color: rgb(196, 124, 124);
+    font-size: 60px;
+}
+
+#gato-ninja {
+    width: 300px;
+    height: 200px;
+    border-radius: 50%;
+}
